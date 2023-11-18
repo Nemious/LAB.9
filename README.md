@@ -30,6 +30,8 @@ __Испольнитель:__
 3-й тест: 
 
 ![image](https://github.com/Nemious/LAB.9/assets/146121558/0ec464b4-f0c4-45a8-bfa6-dcf447d513aa)
+![image](https://github.com/Nemious/LAB.9/assets/146121558/7a3a67be-f26f-4283-8391-067b66f14c8c)
+
 
 Пример работы с ошибками:
 
